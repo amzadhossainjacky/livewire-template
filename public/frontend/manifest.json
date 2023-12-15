@@ -1,0 +1,368 @@
+{
+  "resources/css/frontend_app.css": {
+    "file": "assets/frontend_app-bbfe14ef.css",
+    "isEntry": true,
+    "src": "resources/css/frontend_app.css"
+  },
+  "resources/frontend_images/avatar-1.jpg": {
+    "file": "assets/user-2-a2ee2c9b.jpg",
+    "src": "resources/frontend_images/user-2.jpg"
+  },
+  "resources/frontend_images/avatar-10.jpg": {
+    "file": "assets/avatar-10-fb34b11c.jpg",
+    "src": "resources/frontend_images/avatar-10.jpg"
+  },
+  "resources/frontend_images/avatar-2.jpg": {
+    "file": "assets/user-4-a764e0aa.jpg",
+    "src": "resources/frontend_images/user-4.jpg"
+  },
+  "resources/frontend_images/avatar-3.jpg": {
+    "file": "assets/user-3-5acf8d9d.jpg",
+    "src": "resources/frontend_images/user-3.jpg"
+  },
+  "resources/frontend_images/avatar-4.jpg": {
+    "file": "assets/user-5-28459dde.jpg",
+    "src": "resources/frontend_images/user-5.jpg"
+  },
+  "resources/frontend_images/avatar-5.jpg": {
+    "file": "assets/user-6-6576d198.jpg",
+    "src": "resources/frontend_images/user-6.jpg"
+  },
+  "resources/frontend_images/avatar-6.jpg": {
+    "file": "assets/user-7-2eef30df.jpg",
+    "src": "resources/frontend_images/user-7.jpg"
+  },
+  "resources/frontend_images/avatar-7.jpg": {
+    "file": "assets/user-9-aeb7530a.jpg",
+    "src": "resources/frontend_images/user-9.jpg"
+  },
+  "resources/frontend_images/avatar-8.jpg": {
+    "file": "assets/user-8-d0c8a53a.jpg",
+    "src": "resources/frontend_images/user-8.jpg"
+  },
+  "resources/frontend_images/avatar-9.jpg": {
+    "file": "assets/user-10-9270f1bc.jpg",
+    "src": "resources/frontend_images/user-10.jpg"
+  },
+  "resources/frontend_images/brands/bitbucket.png": {
+    "file": "assets/bitbucket-67a996b1.png",
+    "src": "resources/frontend_images/brands/bitbucket.png"
+  },
+  "resources/frontend_images/brands/dribbble.png": {
+    "file": "assets/dribbble-a29e9e23.png",
+    "src": "resources/frontend_images/brands/dribbble.png"
+  },
+  "resources/frontend_images/brands/dropbox.png": {
+    "file": "assets/dropbox-5a804c70.png",
+    "src": "resources/frontend_images/brands/dropbox.png"
+  },
+  "resources/frontend_images/brands/g-suite.png": {
+    "file": "assets/g-suite-49e8a916.png",
+    "src": "resources/frontend_images/brands/g-suite.png"
+  },
+  "resources/frontend_images/brands/github.png": {
+    "file": "assets/github-ccf4fac2.png",
+    "src": "resources/frontend_images/brands/github.png"
+  },
+  "resources/frontend_images/brands/instagram.png": {
+    "file": "assets/instagram-81e5da8c.png",
+    "src": "resources/frontend_images/brands/instagram.png"
+  },
+  "resources/frontend_images/brands/messenger.png": {
+    "file": "assets/messenger-596746f7.png",
+    "src": "resources/frontend_images/brands/messenger.png"
+  },
+  "resources/frontend_images/brands/slack.png": {
+    "file": "assets/slack-8142cf46.png",
+    "src": "resources/frontend_images/brands/slack.png"
+  },
+  "resources/frontend_images/companies/airbnb.png": {
+    "file": "assets/airbnb-2aaaf588.png",
+    "src": "resources/frontend_images/companies/airbnb.png"
+  },
+  "resources/frontend_images/companies/amazon.png": {
+    "file": "assets/amazon-d42eee28.png",
+    "src": "resources/frontend_images/companies/amazon.png"
+  },
+  "resources/frontend_images/companies/apple.png": {
+    "file": "assets/apple-d016cdeb.png",
+    "src": "resources/frontend_images/companies/apple.png"
+  },
+  "resources/frontend_images/companies/cisco.png": {
+    "file": "assets/cisco-e8133259.png",
+    "src": "resources/frontend_images/companies/cisco.png"
+  },
+  "resources/frontend_images/companies/facebook.png": {
+    "file": "assets/facebook-3669fd55.png",
+    "src": "resources/frontend_images/companies/facebook.png"
+  },
+  "resources/frontend_images/companies/google.png": {
+    "file": "assets/google-838bf5ed.png",
+    "src": "resources/frontend_images/companies/google.png"
+  },
+  "resources/frontend_images/companies/instagram.png": {
+    "file": "assets/instagram-8fbcad48.png",
+    "src": "resources/frontend_images/companies/instagram.png"
+  },
+  "resources/frontend_images/companies/tata.png": {
+    "file": "assets/tata-7df65321.png",
+    "src": "resources/frontend_images/companies/tata.png"
+  },
+  "resources/frontend_images/favicon.ico": {
+    "file": "assets/favicon-6010259c.ico",
+    "src": "resources/frontend_images/logo-sm.png"
+  },
+  "resources/frontend_images/flags/french.jpg": {
+    "file": "assets/french-6adcbaee.jpg",
+    "src": "resources/frontend_images/flags/french.jpg"
+  },
+  "resources/frontend_images/flags/germany.jpg": {
+    "file": "assets/germany-b051a166.jpg",
+    "src": "resources/frontend_images/flags/germany.jpg"
+  },
+  "resources/frontend_images/flags/italy.jpg": {
+    "file": "assets/italy-269e8284.jpg",
+    "src": "resources/frontend_images/flags/italy.jpg"
+  },
+  "resources/frontend_images/flags/russia.jpg": {
+    "file": "assets/russia-634e6377.jpg",
+    "src": "resources/frontend_images/flags/russia.jpg"
+  },
+  "resources/frontend_images/flags/spain.jpg": {
+    "file": "assets/spain-5a70d23c.jpg",
+    "src": "resources/frontend_images/flags/spain.jpg"
+  },
+  "resources/frontend_images/flags/us.jpg": {
+    "file": "assets/us-4c7fd9b2.jpg",
+    "src": "resources/frontend_images/flags/us.jpg"
+  },
+  "resources/frontend_images/lightbox-video.mp4": {
+    "file": "assets/lightbox-video-708ed4ad.mp4",
+    "src": "resources/frontend_images/lightbox-video.mp4"
+  },
+  "resources/frontend_images/logo-dark.png": {
+    "file": "assets/logo-dark-359bbb7d.png",
+    "src": "resources/frontend_images/logo-dark.png"
+  },
+  "resources/frontend_images/logo-light.png": {
+    "file": "assets/logo-light-9db6a5f0.png",
+    "src": "resources/frontend_images/logo-light.png"
+  },
+  "resources/frontend_images/logo-sm.png": {
+    "file": "assets/favicon-6010259c.ico",
+    "src": "resources/frontend_images/logo-sm.png"
+  },
+  "resources/frontend_images/macbook.png": {
+    "file": "assets/macbook-f7d2959c.png",
+    "src": "resources/frontend_images/macbook.png"
+  },
+  "resources/frontend_images/small/boys.jpg": {
+    "file": "assets/boys-5d0903cd.jpg",
+    "src": "resources/frontend_images/small/boys.jpg"
+  },
+  "resources/frontend_images/small/flower.jpeg": {
+    "file": "assets/flower-9f496161.jpeg",
+    "src": "resources/frontend_images/small/flower.jpeg"
+  },
+  "resources/frontend_images/small/flower.jpg": {
+    "file": "assets/flower-d50b3a7a.jpg",
+    "src": "resources/frontend_images/small/flower.jpg"
+  },
+  "resources/frontend_images/small/flower2.jpg": {
+    "file": "assets/flower2-39c019f0.jpg",
+    "src": "resources/frontend_images/small/flower2.jpg"
+  },
+  "resources/frontend_images/small/girl.jpg": {
+    "file": "assets/girl-64fa6077.jpg",
+    "src": "resources/frontend_images/small/girl.jpg"
+  },
+  "resources/frontend_images/small/img-1.jpg": {
+    "file": "assets/img-1-aff520e9.jpg",
+    "src": "resources/frontend_images/small/img-1.jpg"
+  },
+  "resources/frontend_images/small/img-10.jpg": {
+    "file": "assets/img-10-b4b96317.jpg",
+    "src": "resources/frontend_images/small/img-10.jpg"
+  },
+  "resources/frontend_images/small/img-11.jpg": {
+    "file": "assets/img-11-9b7b43ca.jpg",
+    "src": "resources/frontend_images/small/img-11.jpg"
+  },
+  "resources/frontend_images/small/img-12.jpg": {
+    "file": "assets/img-12-12e288c8.jpg",
+    "src": "resources/frontend_images/small/img-12.jpg"
+  },
+  "resources/frontend_images/small/img-2.jpg": {
+    "file": "assets/img-2-11a5faf6.jpg",
+    "src": "resources/frontend_images/small/img-2.jpg"
+  },
+  "resources/frontend_images/small/img-3.jpg": {
+    "file": "assets/img-3-08186775.jpg",
+    "src": "resources/frontend_images/small/img-3.jpg"
+  },
+  "resources/frontend_images/small/img-4.jpg": {
+    "file": "assets/img-4-8905dbe6.jpg",
+    "src": "resources/frontend_images/small/img-4.jpg"
+  },
+  "resources/frontend_images/small/img-5.jpg": {
+    "file": "assets/img-5-6ad75f90.jpg",
+    "src": "resources/frontend_images/small/img-5.jpg"
+  },
+  "resources/frontend_images/small/img-6.jpg": {
+    "file": "assets/img-6-6538c2c9.jpg",
+    "src": "resources/frontend_images/small/img-6.jpg"
+  },
+  "resources/frontend_images/small/img-7.jpg": {
+    "file": "assets/img-7-a48aa2c8.jpg",
+    "src": "resources/frontend_images/small/img-7.jpg"
+  },
+  "resources/frontend_images/small/img-8.jpg": {
+    "file": "assets/img-8-b967a082.jpg",
+    "src": "resources/frontend_images/small/img-8.jpg"
+  },
+  "resources/frontend_images/small/img-9.jpg": {
+    "file": "assets/img-9-cdb8aa17.jpg",
+    "src": "resources/frontend_images/small/img-9.jpg"
+  },
+  "resources/frontend_images/small/plant.jpg": {
+    "file": "assets/plant-0ff4ffab.jpg",
+    "src": "resources/frontend_images/small/small-8.jpg"
+  },
+  "resources/frontend_images/small/plant2.jpeg": {
+    "file": "assets/plant2-757f6b76.jpeg",
+    "src": "resources/frontend_images/small/small-9.jpg"
+  },
+  "resources/frontend_images/small/plant3.jpeg": {
+    "file": "assets/plant3-db249b65.jpeg",
+    "src": "resources/frontend_images/small/small-10.jpg"
+  },
+  "resources/frontend_images/small/small-1.jpg": {
+    "file": "assets/small-1-6101a967.jpg",
+    "src": "resources/frontend_images/small/small-1.jpg"
+  },
+  "resources/frontend_images/small/small-10.jpg": {
+    "file": "assets/plant3-db249b65.jpeg",
+    "src": "resources/frontend_images/small/small-10.jpg"
+  },
+  "resources/frontend_images/small/small-11.jpg": {
+    "file": "assets/vase-4dc4d83e.jpg",
+    "src": "resources/frontend_images/small/vase.jpg"
+  },
+  "resources/frontend_images/small/small-12.jpg": {
+    "file": "assets/statue1-badb380d.jpg",
+    "src": "resources/frontend_images/small/statue1.jpg"
+  },
+  "resources/frontend_images/small/small-13.jpg": {
+    "file": "assets/statue2-7e45c1cb.jpg",
+    "src": "resources/frontend_images/small/statue2.jpg"
+  },
+  "resources/frontend_images/small/small-14.jpg": {
+    "file": "assets/work-187f5393.jpg",
+    "src": "resources/frontend_images/small/work.jpg"
+  },
+  "resources/frontend_images/small/small-2.jpg": {
+    "file": "assets/small-2-24036c74.jpg",
+    "src": "resources/frontend_images/small/small-2.jpg"
+  },
+  "resources/frontend_images/small/small-3.jpg": {
+    "file": "assets/small-3-42d3060b.jpg",
+    "src": "resources/frontend_images/small/small-3.jpg"
+  },
+  "resources/frontend_images/small/small-4.jpg": {
+    "file": "assets/small-4-b6623a30.jpg",
+    "src": "resources/frontend_images/small/small-4.jpg"
+  },
+  "resources/frontend_images/small/small-5.jpg": {
+    "file": "assets/small-5-d1589341.jpg",
+    "src": "resources/frontend_images/small/small-5.jpg"
+  },
+  "resources/frontend_images/small/small-6.jpg": {
+    "file": "assets/small-6-740d48be.jpg",
+    "src": "resources/frontend_images/small/small-6.jpg"
+  },
+  "resources/frontend_images/small/small-7.jpg": {
+    "file": "assets/small-7-dbf4ee02.jpg",
+    "src": "resources/frontend_images/small/small-7.jpg"
+  },
+  "resources/frontend_images/small/small-8.jpg": {
+    "file": "assets/plant-0ff4ffab.jpg",
+    "src": "resources/frontend_images/small/small-8.jpg"
+  },
+  "resources/frontend_images/small/small-9.jpg": {
+    "file": "assets/plant2-757f6b76.jpeg",
+    "src": "resources/frontend_images/small/small-9.jpg"
+  },
+  "resources/frontend_images/small/statue1.jpg": {
+    "file": "assets/statue1-badb380d.jpg",
+    "src": "resources/frontend_images/small/statue1.jpg"
+  },
+  "resources/frontend_images/small/statue2.jpg": {
+    "file": "assets/statue2-7e45c1cb.jpg",
+    "src": "resources/frontend_images/small/statue2.jpg"
+  },
+  "resources/frontend_images/small/vase.jpg": {
+    "file": "assets/vase-4dc4d83e.jpg",
+    "src": "resources/frontend_images/small/vase.jpg"
+  },
+  "resources/frontend_images/small/work.jpg": {
+    "file": "assets/work-187f5393.jpg",
+    "src": "resources/frontend_images/small/work.jpg"
+  },
+  "resources/frontend_images/small/workingwoman.jpeg": {
+    "file": "assets/workingwoman-622263a9.jpeg",
+    "src": "resources/frontend_images/small/workingwoman.jpeg"
+  },
+  "resources/frontend_images/small/workingwoman.jpg": {
+    "file": "assets/workingwoman-98dcec7b.jpg",
+    "src": "resources/frontend_images/small/workingwoman.jpg"
+  },
+  "resources/frontend_images/user-1.jpg": {
+    "file": "assets/user-1-5fe9662d.jpg",
+    "src": "resources/frontend_images/user-1.jpg"
+  },
+  "resources/frontend_images/user-10.jpg": {
+    "file": "assets/user-10-9270f1bc.jpg",
+    "src": "resources/frontend_images/user-10.jpg"
+  },
+  "resources/frontend_images/user-11.jpg": {
+    "file": "assets/user-11-155a2302.jpg",
+    "src": "resources/frontend_images/user-11.jpg"
+  },
+  "resources/frontend_images/user-2.jpg": {
+    "file": "assets/user-2-a2ee2c9b.jpg",
+    "src": "resources/frontend_images/user-2.jpg"
+  },
+  "resources/frontend_images/user-3.jpg": {
+    "file": "assets/user-3-5acf8d9d.jpg",
+    "src": "resources/frontend_images/user-3.jpg"
+  },
+  "resources/frontend_images/user-4.jpg": {
+    "file": "assets/user-4-a764e0aa.jpg",
+    "src": "resources/frontend_images/user-4.jpg"
+  },
+  "resources/frontend_images/user-5.jpg": {
+    "file": "assets/user-5-28459dde.jpg",
+    "src": "resources/frontend_images/user-5.jpg"
+  },
+  "resources/frontend_images/user-6.jpg": {
+    "file": "assets/user-6-6576d198.jpg",
+    "src": "resources/frontend_images/user-6.jpg"
+  },
+  "resources/frontend_images/user-7.jpg": {
+    "file": "assets/user-7-2eef30df.jpg",
+    "src": "resources/frontend_images/user-7.jpg"
+  },
+  "resources/frontend_images/user-8.jpg": {
+    "file": "assets/user-8-d0c8a53a.jpg",
+    "src": "resources/frontend_images/user-8.jpg"
+  },
+  "resources/frontend_images/user-9.jpg": {
+    "file": "assets/user-9-aeb7530a.jpg",
+    "src": "resources/frontend_images/user-9.jpg"
+  },
+  "resources/js/frontend_app.js": {
+    "file": "assets/frontend_app-3908a84a.js",
+    "isEntry": true,
+    "src": "resources/js/frontend_app.js"
+  }
+}

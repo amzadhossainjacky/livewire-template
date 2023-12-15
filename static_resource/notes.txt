@@ -1,0 +1,14 @@
+admin user: admin@gmail.com 
+admin password:  Praava2023#
+
+normal user pass: 12345678
+
+db url: http://103.106.118.164/DB/
+
+patient api
+01705171300
+01844508429
+01844573214
+
+
+

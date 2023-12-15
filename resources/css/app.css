@@ -1,0 +1,8 @@
+/* Bootstrap icons css */
+@import url("bootstrap-icons");
+/* Template css */
+@import url("./backend/mermaid.min.css");
+
+@import url("./backend/app.css");
+@import url("./backend/summernote-lite.min.css");
+@import url("./backend/custom.css");
